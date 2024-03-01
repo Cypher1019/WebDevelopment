@@ -1,0 +1,22 @@
+/* Dashboard.css */
+.dashboard-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .employee-table {
+    margin-top: 20px;
+  }
+  
+  .employee-table th {
+    text-align: center;
+  }
+  
+  .employee-table td {
+    text-align: center;
+  }
+  
+  .employee-table .btn {
+    margin-right: 5px;
+  }
+  
